@@ -1,4 +1,4 @@
-**Classic Models Database Analysis using MySQL**
+**Classic Models Database Analysis using SQL**
 
 A data analysis mini project performed on the ClassicModels database using MySQL.
 The project answers 10 real business questions with SQL queries, result screenshots, insights, and strategies.
@@ -43,6 +43,6 @@ One product (1985 Toyota Supra) has zero sales with 7733 units in stock
 
 ## 👤 Author
 **Vathada Swaroop Kumar**
-Data Analytics Learner | Ex-TCS | Agileology Platform
+Ex-TCS | Agileology Platform
 
 - LinkedIn: [Swaroop Kumar Vathada](https://www.linkedin.com/in/swaroopkumarvathada)
