@@ -1,4 +1,4 @@
-**Classic Models Database Analysis using SQL**
+**Classic Models Database Analysis using SQL queries in MYSQL Workbench**
 
 A data analysis mini project performed on the ClassicModels database using MySQL.
 The project answers 10 real business questions with SQL queries, result screenshots, insights, and strategies.
