@@ -49,6 +49,6 @@ One product (1985 Toyota Supra) has zero sales with 7733 units in stock
 
 ## 👤 Author
 **Vathada Swaroop Kumar**
-|Ex-TCS | Agileology Platform
+| Ex-TCS | Agileology Platform
 
 - LinkedIn: [Swaroop Kumar Vathada](https://www.linkedin.com/in/swaroopkumarvathada)
